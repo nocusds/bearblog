@@ -14,3 +14,8 @@ ___
 #### Torre
 
 [Torre](https://torre.la/) - fast, live tournaments for every competition
+
+#### Soliloquy
+
+[Soliloquy](https://soliloquy.io/) - distributed nano apps, virtual machines,
+and infrastructure
