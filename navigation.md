@@ -1,1 +1,1 @@
-[Home](https://cdrew.dev/) [Blog](/blog/) [Projects](/projects/) [RSS](/feed/)
+[Blog](/blog/) [Projects](/projects/) [RSS](/feed/) [Home](https://cdrew.dev/)

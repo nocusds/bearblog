@@ -1,6 +1,5 @@
 title: Projects
 link: projects
-published_date: 2023-02-25
 is_page: true
 make_discoverable: false
 ___
